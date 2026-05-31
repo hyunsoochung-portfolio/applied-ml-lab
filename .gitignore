@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+data/
+# artifacts/ contents are run outputs; keep the folder placeholder
+artifacts/*
+!artifacts/.gitkeep
+*.png
+*.joblib
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/

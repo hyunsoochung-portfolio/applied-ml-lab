@@ -1,0 +1,3 @@
+strategy,accuracy,proba_rowsum_mean
+ovr,0.9459843638948117,1.0
+multinomial,0.976545842217484,1.0

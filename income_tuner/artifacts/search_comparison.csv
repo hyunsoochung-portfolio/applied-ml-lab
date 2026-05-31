@@ -1,0 +1,5 @@
+method,best_score,wall_clock_s,best_params
+GridSearchCV,0.9139851830918042,99.39119845900001,"{'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'n_estimators': 100}"
+RandomizedSearchCV,0.9125288720478739,71.287301083,"{'max_depth': 15, 'max_features': np.float64(0.5631609080773922), 'min_samples_leaf': 5, 'n_estimators': 362}"
+HalvingGridSearchCV,0.9133943702901091,28.768853667000002,"{'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'n_estimators': 200}"
+HalvingRandomSearchCV,0.8997375271502447,16.852299875,"{'max_depth': 7, 'max_features': np.float64(0.3811309040432712), 'min_samples_leaf': 5, 'n_estimators': 153}"

@@ -1,0 +1,4 @@
+n_iter,best_score,wall_clock_s,best_params
+10,0.9119742720979849,46.97721849999999,"{'max_depth': 17, 'max_features': np.float64(0.5300649112954666), 'min_samples_leaf': 7, 'n_estimators': 139}"
+50,0.9134541181243145,176.246174,"{'max_depth': 15, 'max_features': np.float64(0.3583559562379043), 'min_samples_leaf': 4, 'n_estimators': 314}"
+200,0.9134541181243145,693.911202,"{'max_depth': 15, 'max_features': np.float64(0.3583559562379043), 'min_samples_leaf': 4, 'n_estimators': 314}"

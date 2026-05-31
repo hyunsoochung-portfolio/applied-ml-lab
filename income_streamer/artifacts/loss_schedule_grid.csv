@@ -1,0 +1,17 @@
+loss,schedule,test_acc
+log_loss,constant,0.8249627051218299
+log_loss,optimal,0.8415382065307475
+log_loss,invscaling,0.8340792308967346
+log_loss,adaptive,0.8463451019393337
+hinge,constant,0.8337477208685563
+hinge,optimal,0.8367313111221615
+hinge,invscaling,0.8378915962207857
+hinge,adaptive,0.8478368970661363
+modified_huber,constant,0.7981103928393833
+modified_huber,optimal,0.8214818498259573
+modified_huber,invscaling,0.843858776727996
+modified_huber,adaptive,0.8453505718547986
+squared_hinge,constant,0.8004309630366319
+squared_hinge,optimal,0.7810376263881983
+squared_hinge,invscaling,0.8430300016575502
+squared_hinge,adaptive,0.8189955246146196
